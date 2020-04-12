@@ -111,9 +111,9 @@ echo
     <p class='text-white mb-0'>
     <b>$Cfm</b> POSITIF
     <br>
-    <b>$Dth</b> SEMBUH
+    <b>$Rcv</b> SEMBUH
     <br>
-    <b>$Rcv</b> MENINGGAL</p>
+    <b>$Dth</b> MENINGGAL</p>
     </div>
     <div style='margin-left: auto !important;'>
     <img style='max-width: 100%;vertical-align: middle;border-style: none;' src='https://kawalcorona.com/uploads/indonesia-PZq.png' alt='Positif' width='50' height='50'>
